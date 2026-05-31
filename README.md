@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:434343&text=Cloud%20DevOps%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AWS%20|%20Azure%20|%20Kubernetes%20|%20RAG%20|%20Agentic%20AI%20|%20MLOps&descAlignY=68&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:434343&text=Cloud%20DevOps%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Azure%20|%GCP%20|%AWS%20|%20Kubernetes%20|%20RAG%20|%20Agentic%20AI%20|%20MLOps&descAlignY=68&descSize=18"/>
 </p>
 
 <p align="center">
