@@ -146,8 +146,14 @@
 
 ## 📚 Latest Blog Posts
 
-<!-- Replace with your blog links -->
-- 🔹 https://giteepag.hashnode.dev/building-an-mcp-based-kubernetes-health-platform-with-prometheus-streamlit
+### 🚀 Building an MCP-based Kubernetes Health Platform with Prometheus & Streamlit
+
+💡 Built a real-time Kubernetes health monitoring platform using:
+- ⚙️ Kubernetes
+- 📊 Prometheus
+- 📈 Streamlit dashboards  
+
+👉 [Read the full article](https://giteepag.hashnode.dev/building-an-mcp-based-kubernetes-health-platform-with-prometheus-streamlit)
 
 ---
 
