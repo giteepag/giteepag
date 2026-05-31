@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo"/>
 </p>
 
 ---
