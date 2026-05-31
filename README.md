@@ -64,51 +64,51 @@
 
 ### ☁️ Cloud & Platforms
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/GCP-1f2937?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
 </p>
 
 ---
 
 ### ⚙️ DevOps & Containerization
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
+  <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1f2937?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+  <img src="https://img.shields.io/badge/Helm-1f2937?style=for-the-badge&logo=helm&logoColor=0F1689"/>
 </p>
 
 ---
 
 ### 🔄 CI/CD & Automation
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=for-the-badge&logo=github-actions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-1f2937?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/>
 </p>
 
 ---
 
 ### 🏗️ Infrastructure as Code
 <p>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+  <img src="https://img.shields.io/badge/Terraform-1f2937?style=for-the-badge&logo=terraform&logoColor=623CE4"/>
+  <img src="https://img.shields.io/badge/Ansible-1f2937?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
 </p>
 
 ---
 
 ### 📊 Monitoring & Observability
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+  <img src="https://img.shields.io/badge/Prometheus-1f2937?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+  <img src="https://img.shields.io/badge/Grafana-1f2937?style=for-the-badge&logo=grafana&logoColor=F46800"/>
 </p>
 
 ---
 
 ### 🤖 AI / MLOps / Modern Stack
 <p>
-  <img src="https://img.shields.io/badge/MLOps-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-Agents-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-1f2937?style=for-the-badge&logoColor=00C853"/>
+  <img src="https://img.shields.io/badge/RAG-1f2937?style=for-the-badge&logoColor=FFA500"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-1f2937?style=for-the-badge&logoColor=58A6FF"/>
 </p>
 
 ---
