@@ -84,7 +84,6 @@
 ### 🔄 CI/CD & Automation
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
 </p>
 
@@ -102,7 +101,6 @@
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic"/>
 </p>
 
 ---
@@ -120,6 +118,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go"/>
 </p>
 
 ## 📊 GitHub Stats
