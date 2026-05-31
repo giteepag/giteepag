@@ -31,12 +31,18 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 DevOps Engineer with 17+ years of hands-on experience**
-- ☁️ Skilled in **Cloud, DevOps, Kubernetes & Automation**
-- ✍️ Published **20+ blogs & articles**
-- 🎓 Created learning content on **AZURE, Linux, Kubernetes, Ansible, MCP, AI**
-- 🤖 Currently exploring **MLOps & AIOps**
-- ⚡ Focused on **real-world problem solving & production systems**
+- 🔥 Principal DevOps & Platform Engineering Architect with 17+ years experience building enterprise-scale cloud platforms
+- ☁️ Expert in Azure Landing Zones, Multi-Cloud Architecture (Azure, AWS, GCP) & governed platform design
+- ⚙️ Architect of CI/CD ecosystems (Azure DevOps, GitHub Actions, Jenkins) powering 1000s of pipelines/month
+- 🧱 Specialist in Platform Engineering & Kubernetes (500+ workloads, multi-cluster, GitOps, Helm, Terraform)
+- 🧩 Built Terraform Enterprise Module Frameworks (Go-based) enabling standardised, reusable IaC at scale
+- 🔐 Strong in DevSecOps, Policy-as-Code, Compliance Automation & Cloud Governance
+- 🧠 Developed Agentic AI systems (LLMs, Microsoft OpenAI, Google ADK) for CI/CD optimisation & cloud operations
+- 📡 Designed event-driven automation & observability frameworks for large-scale cloud environments
+- ✍️ Published 20+ technical blogs on Azure, Kubernetes, Linux, Ansible, MCP, RAG & Agentic AI
+- 🎓 Creator of hands-on learning content & real-world labs for engineers and architects
+- 🤖 Currently advancing into MLOps, AIOps & AI-driven platform engineering
+- ⚡ Focused on production-grade systems, scalability, and real-world problem solving
 
 ---
 
