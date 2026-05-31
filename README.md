@@ -62,72 +62,87 @@
 
 ## ⚙️ Tech Stack
 
-### ☁️ Cloud & Platforms
+<table>
+<tr>
+<td align="center">
+
+### ☁️ Cloud
 <p>
   <img src="https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
   <img src="https://img.shields.io/badge/GCP-1f2937?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
 </p>
 
----
+</td>
+<td align="center">
 
-### ⚙️ DevOps & Containerization
+### ⚙️ DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Kubernetes-1f2937?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
   <img src="https://img.shields.io/badge/Helm-1f2937?style=for-the-badge&logo=helm&logoColor=0F1689"/>
 </p>
 
----
+</td>
+</tr>
 
-### 🔄 CI/CD & Automation
+<tr>
+<td align="center">
+
+### 🔄 CI/CD
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=for-the-badge&logo=github-actions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-1f2937?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/>
 </p>
 
----
+</td>
+<td align="center">
 
-### 🏗️ Infrastructure as Code
+### 🏗️ IaC
 <p>
   <img src="https://img.shields.io/badge/Terraform-1f2937?style=for-the-badge&logo=terraform&logoColor=623CE4"/>
   <img src="https://img.shields.io/badge/Ansible-1f2937?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
 </p>
 
----
+</td>
+</tr>
 
-### 📊 Monitoring & Observability
+<tr>
+<td align="center">
+
+### 📊 Observability
 <p>
   <img src="https://img.shields.io/badge/Prometheus-1f2937?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
   <img src="https://img.shields.io/badge/Grafana-1f2937?style=for-the-badge&logo=grafana&logoColor=F46800"/>
 </p>
 
----
+</td>
+<td align="center">
 
-### 🤖 AI / MLOps / Modern Stack
+### 🤖 AI / MLOps
 <p>
   <img src="https://img.shields.io/badge/MLOps-1f2937?style=for-the-badge&logoColor=00C853"/>
   <img src="https://img.shields.io/badge/RAG-1f2937?style=for-the-badge&logoColor=FFA500"/>
   <img src="https://img.shields.io/badge/Agentic_AI-1f2937?style=for-the-badge&logoColor=58A6FF"/>
 </p>
 
----
+</td>
+</tr>
 
-### 💻 Scripting & Programming
+<tr>
+<td colspan="2" align="center">
+
+### 💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/Bash-1f2937?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
+  <img src="https://img.shields.io/badge/Go-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8"/>
 </p>
 
-## 📊 GitHub Stats
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giteepag&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giteepag&theme=tokyonight"/>
-</p>
-
----
+</table>
 
 ## 📚 Latest Blog Posts
 
