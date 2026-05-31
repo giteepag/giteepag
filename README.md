@@ -144,6 +144,78 @@
 
 </table>
 
+> 🚀 Building production-grade cloud platforms, DevOps pipelines, and AI-driven automation systems
+
+## 🚀 Featured Projects
+
+### 🔹 Kubernetes Health Monitoring Platform
+💡 Built a real-time observability platform for Kubernetes clusters  
+
+- 📊 Metrics collection using Prometheus  
+- 📈 Interactive dashboards with Streamlit  
+- ⚙️ Containerised deployment on Kubernetes  
+- 🚨 Health insights for pods, nodes & workloads  
+
+🛠️ Tech: Kubernetes, Prometheus, Python, Streamlit  
+
+👉 https://giteepag.hashnode.dev/building-an-mcp-based-kubernetes-health-platform-with-prometheus-streamlit
+
+---
+
+### 🔹 Cloud-Native CI/CD Pipeline (GitHub Actions + Azure DevOps)
+💡 Designed scalable CI/CD pipelines for multi-environment deployments  
+
+- 🔄 Automated build, test & deployment workflows  
+- ☁️ Integrated Azure DevOps & GitHub Actions  
+- 📦 Container build & push using Docker  
+- 🚀 Kubernetes deployment automation  
+
+🛠️ Tech: GitHub Actions, Azure DevOps, Docker, Kubernetes  
+
+👉 (Add your repo link here)
+
+---
+
+### 🔹 Infrastructure as Code Platform (Terraform + Ansible)
+💡 Automated cloud infrastructure provisioning & configuration  
+
+- 🏗️ Modular Terraform for reusable infrastructure  
+- ⚙️ Configuration management using Ansible  
+- ☁️ Multi-cloud provisioning (AWS / Azure)  
+- 🔐 Secure and scalable environment setup  
+
+🛠️ Tech: Terraform, Ansible, AWS, Azure  
+
+👉 (Add your repo link here)
+
+---
+
+### 🔹 Agentic AI for DevOps Automation
+💡 Building intelligent DevOps workflows using AI agents  
+
+- 🤖 Automated incident analysis & resolution  
+- 🔍 Log analysis using AI (RAG-based approach)  
+- ⚡ Self-healing infrastructure concepts  
+- 🧠 Integration with DevOps pipelines  
+
+🛠️ Tech: Python, RAG, Agentic AI, LLMs  
+
+👉 (Add your repo link here)
+
+---
+
+### 🔹 Kubernetes CLI Tool (Go)
+💡 Custom CLI for Kubernetes monitoring & operations  
+
+- ⚙️ Built using Go for performance & scalability  
+- 📊 Fetch cluster health & resource usage  
+- 🔍 Simplified debugging for developers  
+- 🚀 Lightweight DevOps utility tool  
+
+🛠️ Tech: Go, Kubernetes API  
+
+👉 (Add your repo link here)
+
 ## 📚 Latest Blog Posts
 
 ### 🚀 Building an MCP-based Kubernetes Health Platform with Prometheus & Streamlit
