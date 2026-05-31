@@ -16,17 +16,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/prashantgirennavar/">
     <img src="https://img.shields.io/badge/LinkedIn-32K+-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/giteepag">
     <img src="https://img.shields.io/badge/GitHub-Followers-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://yourblog.com">
+  <a href="https://giteepag.hashnode.dev">
     <img src="https://img.shields.io/badge/Blog-Articles-orange?style=for-the-badge&logo=hashnode"/>
-  </a>
-  <a href="https://youtube.com/YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-DevOps-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
 
@@ -66,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giteepag&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giteepag&theme=tokyonight"/>
 </p>
 
 ---
@@ -75,9 +72,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- Replace with your blog links -->
-- 🔹 [Your Blog Title 1](#)
-- 🔹 [Your Blog Title 2](#)
-- 🔹 [Your Blog Title 3](#)
+- 🔹 https://giteepag.hashnode.dev/building-an-mcp-based-kubernetes-health-platform-with-prometheus-streamlit
 
 ---
 
