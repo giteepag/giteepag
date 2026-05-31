@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Cloud+Systems;Automating+Everything+%F0%9F%9A%80;Kubernetes+%7C+DevOps+%7C+Cloud;Exploring+RAG+%26+Agentic+AI;MLOps+%7C+AIOps+Engineer"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
