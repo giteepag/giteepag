@@ -1,6 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Cloud%20DevOps%20Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header
+&text=Cloud%20DevOps%20Engineer
+&fontSize=40
+&fontColor=ffffff
+&animation=fadeIn
+&desc=AWS%20|%20Azure%20|%20Kubernetes%20|%20DevOps%20|%20RAG%20|%20Agentic%20AI%20|%20MLOps
+&descAlignY=65
+&descSize=18"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Prashant GIRENNAVAR</h2>
