@@ -62,8 +62,6 @@
 
 ## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
 <table>
 <tr>
 <td align="center">
@@ -145,19 +143,6 @@
 </tr>
 
 </table>
-
-### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Bash-1f2937?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
-  <img src="https://img.shields.io/badge/Go-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-</p>
-
-</td>
-</tr>
-
-</table>
-
 
 ## 🚀 Featured Projects
 
