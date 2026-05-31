@@ -1,7 +1,15 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Cloud%20DevOps%20Engineer&fontSize=40&fontColor=ffffff&desc=AWS%20|%20Azure%20|%20Kubernetes%20|%20RAG%20|%20Agentic%20AI%20|%20MLOps&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250
+&text=Cloud%20DevOps%20Engineer
+&fontSize=42
+&fontColor=ffffff
+&animation=fadeIn
+&color=0:ff7e5f,25:feb47b,50:4facfe,75:43e97b,100:38f9d7
+&desc=AWS%20|%20Azure%20|%20Kubernetes%20|%20RAG%20|%20Agentic%20AI%20|%20MLOps
+&descAlignY=68
+&descSize=20"/>
 </p>
 
 <p align="center">
