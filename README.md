@@ -62,6 +62,8 @@
 
 ## ⚙️ Tech Stack
 
+## ⚙️ Tech Stack
+
 <table>
 <tr>
 <td align="center">
@@ -69,7 +71,7 @@
 ### ☁️ Cloud
 <p>
   <img src="https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/Azure-1f2937?style=for-the-badge&logo=microsoftazure&logoColor=00A4EF"/>
   <img src="https://img.shields.io/badge/GCP-1f2937?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
 </p>
 
@@ -100,7 +102,7 @@
 
 ### 🏗️ IaC
 <p>
-  <img src="https://img.shields.io/badge/Terraform-1f2937?style=for-the-badge&logo=terraform&logoColor=623CE4"/>
+  <img src="https://img.shields.io/badge/Terraform-1f2937?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
   <img src="https://img.shields.io/badge/Ansible-1f2937?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
 </p>
 
@@ -121,9 +123,9 @@
 
 ### 🤖 AI / MLOps
 <p>
-  <img src="https://img.shields.io/badge/MLOps-1f2937?style=for-the-badge&logoColor=00C853"/>
-  <img src="https://img.shields.io/badge/RAG-1f2937?style=for-the-badge&logoColor=FFA500"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-1f2937?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/MLOps-1f2937?style=for-the-badge&logo=apacheairflow&logoColor=00C853"/>
+  <img src="https://img.shields.io/badge/RAG-1f2937?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-1f2937?style=for-the-badge&logo=robotframework&logoColor=58A6FF"/>
 </p>
 
 </td>
@@ -131,6 +133,18 @@
 
 <tr>
 <td colspan="2" align="center">
+
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/Bash-1f2937?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
+  <img src="https://img.shields.io/badge/Go-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+</p>
+
+</td>
+</tr>
+
+</table>
 
 ### 💻 Programming
 <p>
