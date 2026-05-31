@@ -144,7 +144,6 @@
 
 </table>
 
-> 🚀 Building production-grade cloud platforms, DevOps pipelines, and AI-driven automation systems
 
 ## 🚀 Featured Projects
 
